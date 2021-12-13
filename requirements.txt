@@ -16,7 +16,7 @@ hyperlink==17.1.1
 idna==2.6
 incremental==16.10.1
 lockfile==0.12.2
-lxml==3.8.0
+lxml==4.6.5
 menuinst==1.4.8
 msgpack-python==0.4.8
 packaging==16.8
